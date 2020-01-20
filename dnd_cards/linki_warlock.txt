@@ -1,0 +1,13 @@
+level,link,name
+0,https://hearthcards.ams3.digitaloceanspaces.com/68/33/f6/90/6833f690.png,eldritch_blast
+0,https://hearthcards.ams3.digitaloceanspaces.com/7a/27/22/ac/7a2722ac.png,mage_hand
+0,https://hearthcards.ams3.digitaloceanspaces.com/93/e6/e6/af/93e6e6af.png,spare_dying
+0,https://hearthcards.ams3.digitaloceanspaces.com/07/2d/8e/81/072d8e81.png,minor_illusion
+0,https://hearthcards.ams3.digitaloceanspaces.com/da/07/cc/1e/da07cc1e.png,vicious_mockery
+1,https://hearthcards.ams3.digitaloceanspaces.com/bc/76/12/9f/bc76129f.png,comprehend_languages
+1,https://hearthcards.ams3.digitaloceanspaces.com/c4/14/eb/e4/c414ebe4.png,hellish_rebuke
+1,https://hearthcards.ams3.digitaloceanspaces.com/7c/54/c8/93/7c54c893.png,unseen_servant
+1,https://hearthcards.ams3.digitaloceanspaces.com/1f/1c/c9/8f/1f1cc98f.png,dissonant_whispers
+2,https://hearthcards.ams3.digitaloceanspaces.com/d7/cf/9f/f3/d7cf9ff3.png,shatter
+2,https://hearthcards.ams3.digitaloceanspaces.com/5d/f4/2b/e1/5df42be1.png,crown_of_madness
+2,https://hearthcards.ams3.digitaloceanspaces.com/c5/2f/9b/c7/c52f9bc7.png,mirror_image
